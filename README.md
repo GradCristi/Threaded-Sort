@@ -5,7 +5,7 @@ gradcristi@yahoo.ro(personal)\
 \
 ****
 
-Introduction- Presenting the proble
+Introduction- Presenting the problem
 ===================================
 
 Our task was to solve a problem of our choosing while using the pthread
