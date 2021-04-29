@@ -110,8 +110,8 @@ so therefore we will need:
     in order to put the thread to sleep while the buffer is empty for
     the consumer, or while the buffer is full for the producer
 
-[!htb] ![[fig:taskuri]Diagrams for the production and consumtion
-processes](./images/Sad.png "fig:")
+![sad](https://user-images.githubusercontent.com/76965165/116595672-3a7f2b80-a92c-11eb-9e1b-2702952ec897.png)
+
 
 The Implementation
 ==================
@@ -133,8 +133,7 @@ that process is over, you are ready to run the binary, which can be done
 by entering : ./pcthread into your terminal and hitting enter. After all
 that is done, you should be greeted with a screen similar to this:
 
-[!htb] ![[fig:example]Example of running the
-program](./images/Untitled.png "fig:")
+![Untitled](https://user-images.githubusercontent.com/76965165/116595594-26d3c500-a92c-11eb-9c51-c70bd0c4631f.png)
 
 We can observe that I navigated to the threads folder (which was located
 on my desktop), and followed the commands posted above. After all is
